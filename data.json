@@ -1,0 +1,30 @@
+[
+    {
+        "amount": 50.0,
+        "category": "food",
+        "note": "午饭",
+        "time": "2025-11-13 16:31:24"
+    },
+    {
+        "amount": 50.0,
+        "category": "food",
+        "note": "午饭",
+        "time": "2025-11-13 16:32:11"
+    },
+    {
+        "amount": 100.0,
+        "category": "salary",
+        "note": "工资",
+        "time": "2025-11-13 16:32:11"
+    },
+    {
+        "amount": 50.0,
+        "category": "food",
+        "note": "午饭"
+    },
+    {
+        "amount": 50.0,
+        "category": "food",
+        "note": "午饭"
+    }
+]
