@@ -84,7 +84,8 @@ python budget.py --help
 add, list, summary, delete, chart
 
 📈 截图展示
-
+![pie](expense_pie_chart.png)
+![bar](expense_bar_chart.png)
 
 
 饼图	柱状图
@@ -98,3 +99,4 @@ add, list, summary, delete, chart
 
 
 该项目为个人学习与展示用途，可自由复用与扩展。
+
