@@ -68,19 +68,16 @@ python budget.py chart
 
 ### ✔ Clean Code & Clear Structure
 
-结构清晰、注释完整、易于扩展，非常适合作为你 GitHub 中的第一个亮眼项目。
+结构清晰、注释完整、易于扩展，非常适合作为 GitHub 中的第一个亮眼项目。
 
-### ✔ 可展示性强（作品集加分项）
+### ✔ 可展示性强
 
-自动生成的饼图、柱状图让项目可视化效果更好，更吸引 HR 和面试官。
+自动生成的饼图、柱状图让项目可视化效果更好。
 
 ### ✔ 专业级命令行交互
 
 掌握 argparse、文件操作、终端 UI 设计等后端基础能力。
 
-### ✔ 支持中文，无乱码
-
-适合国内、国际求职展示。
 
 ### ✔ 易扩展
 
@@ -121,7 +118,7 @@ python budget.py --help
 
 # 👤 Author \| 作者
 
-刘萦之（计算机科学与技术专业）\
+刘萦之（东北林业大学（211） 计算机科学与技术专业）\
 GitHub: https://github.com/Jade-Liu1006\
 Project Repo: https://github.com/Jade-Liu1006/SmartBudget-CLI
 
