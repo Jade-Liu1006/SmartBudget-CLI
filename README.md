@@ -98,4 +98,5 @@ add, list, summary, delete, chart
 项目时间：2025年11月
 项目链接：https://github.com/Jade-Liu1006/SmartBudget-CLI
 
+
 该项目为个人学习与展示用途，可自由复用与扩展。
