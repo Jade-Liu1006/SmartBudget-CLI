@@ -85,9 +85,9 @@ add, list, summary, delete, chart
 
 📈 截图展示
 
+![pie](https://raw.githubusercontent.com/Jade-Liu1006/SmartBudget-CLI/main/expense_pie_chart.png)
+![bar](https://raw.githubusercontent.com/Jade-Liu1006/SmartBudget-CLI/main/expense_bar_chart.png)
 
-![pie](expense_pie_chart.png)
-![bar](expense_bar_chart.png)
 
 饼图	柱状图
 
